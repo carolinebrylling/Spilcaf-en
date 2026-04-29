@@ -51,9 +51,9 @@ function showGame(game) {
   const gameCard = `
     <article class="game-card" tabindex="0">
       <img src="${game.image}" alt="${game.title}" class="game-image" />
+      <h2>${game.title}</h2>
       <div class="game-info">
         <div class="title-row">
-          <h2>${game.title}</h2>
           <span class="year-badge">(${game.year})</span>
         </div>
         <p class="genre">${game.genre.join(", ")}</p>
