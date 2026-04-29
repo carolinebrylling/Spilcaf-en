@@ -1,0 +1,236 @@
+[
+
+  {
+    "id": 1,
+    "name": "Partners",
+    "players": "4",
+    "time": "30-60",
+    "category": "Sekskabsspil",
+    "difficulty": "Let",
+    "image": "https://image.bog-ide.dk/1903758-120747-1000-999/webp/0/828/1903758-120747-1000-999.webp",
+    "description": "Beskrivelse:"
+  },
+  {
+    "id": 2,
+    "name": "Catan",
+    "players": "3-4",
+    "time": "60-120",
+    "category": "Stategi",
+    "difficulty": "Middel",
+    "image": "https://image.bog-ide.dk/2738735-1496170-839-851/webp/0/1000/2738735-1496170-839-851.webp",
+    "description": "Beskrivelse: Byg veje og bosættelser og handel dig til sejr."
+  },
+  {
+    "id": 3,
+    "name": "Hint",
+    "players": "4-10",
+    "time": "45-60",
+    "category": "Selskabsspil",
+    "difficulty": "Let",
+    "image": "https://www.papskubber.dk/images/3545.jpg",
+    "description": "Beskrivelse: Klassisk kortspil hvor du skal af med dine kort."
+  },
+  {
+    "id": 4,
+    "name": "The Sims",
+    "players": "2-5",
+    "time": "40-60",
+    "category": "Familiespil",
+    "difficulty": "Let",
+    "image": "https://popstop.co.nz/cdn/shop/files/the-sims-board-game-127933029bbjpg.jpg?crop=center&height=600&v=1755240662&width=600",
+    "description": "Beskrivelse: Byg og udvikl din egen version af The Sims."
+  },
+
+  {
+
+    "id": 5,
+    "name": "Det Dårlige Selskab",
+    "players": "3-6",
+    "time": "30-40",
+    "category": "Festspil",
+    "difficulty": "Let",
+    "image": "https://image.bog-ide.dk/2756017-344117-1000-1000/webp/0/828/2756017-344117-1000-1000.webp",
+    "description": "Beskrivelse:"
+  },
+  {
+
+    "id": 6,
+    "name": "7 Wonders",
+    "players": "2-7",
+    "time": "30",
+    "category": "Strategi",
+    "difficulty": "Middel",
+    "image": "https://d2qg6c07ydxh2f.cloudfront.net/items/84/img_38984_MAIN.png",
+    "description": "Beskrivelse:"
+  },
+  {
+
+    "id": 7,
+    "name": "Take Time",
+    "players": "2-7",
+    "time": "30-40",
+    "category": "Strategi/Logik",
+    "difficulty": "Let",
+    "image": "https://www.kelz0r.dk/magic/images/libtt0101en_taketime.jpg",
+    "description": "Beskrivelse:"
+  },
+  {
+
+    "id": 8,
+    "name": "Alhambra",
+    "players": "2-6",
+    "time": "45-60",
+    "category": "Strategi",
+    "difficulty": "Middel",
+    "image": "https://cf.geekdo-images.com/OiqKsYDh7pqeRYKG__kMSw__itemrep@2x/img/-o0ISGYC-BkYgfa-SH9Kqw6tYAU=/fit-in/492x600/filters:strip_icc()/pic4893652.jpg",
+    "description": "Beskrivelse:"
+  },
+
+  {
+
+    "id": 9,
+    "name": "Axio",
+    "players": "1-4",
+    "time": "30-40",
+    "category": "Abstrakt",
+    "difficulty": "Let",
+    "image": "https://www.kelz0r.dk/magic/images/axio_bg.jpg",
+    "description": "Beskrivelse:"
+  },
+
+  {
+
+    "id": 10,
+    "name": "Bad Company",
+    "players": "1-6",
+    "time": "30-40",
+    "category": "Familie",
+    "difficulty": "Let",
+    "image": "https://snydepels.dk/cdn/shop/products/pic6241310.jpg?v=1636556485",
+    "description": "Beskrivelse:"
+  },
+  {
+
+    "id": 11,
+    "name": "Bezzerwizzer",
+    "players": "2-12",
+    "time": "45-60",
+    "category": "Quizspil",
+    "difficulty": "Middel",
+    "image": "https://content.gucca.dk/screenshots/original/b/e/bezzerwizzer-original-30-dk-bez1006_691026_1.jpg",
+    "description": "Beskrivelse:"
+  },
+
+  {
+
+    "id": 12,
+    "name": "Bermuda Pirats",
+    "players": "2-4",
+    "time": "20-30",
+    "category": "Aktion",
+    "difficulty": "Let",
+    "image": "https://www.kelz0r.dk/magic/images/bermudapirates_boardgame_da.jpg",
+    "description": "Beskrivelse:"
+  },
+
+  {
+
+    "id": 13,
+    "name": "A Place for All My Books ",
+    "players": "1-4",
+    "time": "40-60",
+    "category": "Puslespil",
+    "difficulty": "Let",
+    "image": "https://www.gamesandstuffonline.com/cdn/shop/files/Screenshot2025-08-19121545.png?v=1759883686&width=1445",
+    "description": "Beskrivelse:"
+  },
+
+  {
+
+    "id": 14,
+    "name": "Azul",
+    "players": "2-4",
+    "time": "30-45",
+    "category": "Strategi/Abstrakt",
+    "difficulty": "Middel",
+    "image": "https://www.thegamesteward.com/cdn/shop/products/azul-retail-board-game-next-move-games-plan-b-games-asmodee-broadway-toys-galapagos-jogos-gem-klub-kft-ghenos-games-hobby-japan-kadabra-korea-boardgames-co-lacerta-mindok-orangutan-ga_grande.jpg?v=1634376655",
+    "description": "Beskrivelse:"
+  },
+
+  {
+
+    "id": 15,
+    "name": "Bomb Busters",
+    "players": "2-5",
+    "time": "30-45",
+    "category": "Strategi",
+    "difficulty": "Let",
+    "image": "https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__itemrep/img/bchqf37dvkXSJKVlkVECbMZZb2g=/fit-in/246x300/filters:strip_icc()/pic8303080.png",
+    "description": "Beskrivelse:"
+  },
+
+  {
+
+    "id": 16,
+    "name": "Dixit Disney",
+    "players": "3-6",
+    "time": "30-40",
+    "category": "Familie",
+    "difficulty": "Let",
+    "image": "https://nordiskspil.dk/cdn/shop/files/Dixit_disney.png?v=1757247999&width=550",
+    "description": "Beskrivelse:"
+  },
+
+  {
+
+    "id": 17,
+    "name": "Ticket to Ride",
+    "players": "2-5",
+    "time": "30-60",
+    "category": "Stategi",
+    "difficulty": "Let",
+    "image": "https://snydepels.dk/cdn/shop/products/Ticket_to_ride.png?v=1571438747",
+    "description": "Beskrivelse:"
+  },
+
+  {
+    "id": 18,
+    "name": "Sequence",
+    "players": "2-4",
+    "time": "30-40",
+    "category": "Stategi/Abstrakt",
+    "difficulty": "Let",
+    "image": "https://papand.dk/cdn/shop/products/sequence-braetspil-dansk-rkkeflge-2-12-851_1a9df064-5f7d-42a4-95fd-facca396abff_700x700.webp?v=1750511751",
+    "description": "Beskrivelse:"
+  },
+
+  {
+    "id": 19,
+    "name": "UNO",
+    "players": "2-10",
+    "time": "10-30",
+    "category": "Kortspil/Familie",
+    "difficulty": "Let",
+    "image": "https://play-lh.googleusercontent.com/yAn20u0xsnzgIKZTaFGgkPnEOV1LPKh00_rEccAnQeljyXDESWneIl9C28c7JT-petqf7AD_ZlIIDMrYah7p",
+    "description": "Beskrivelse:"
+  },
+
+  {
+    "id": 20,
+    "name": "Rummikub",
+    "players": "2-4",
+    "time": "20-30",
+    "category": "Familie/Strategi",
+    "difficulty": "Let",
+    "image": "https://imgcdn.saxo.com/_8710126039731",
+    "description": "Beskrivelse:"
+  }
+
+
+
+  
+  
+
+  
+
+]
